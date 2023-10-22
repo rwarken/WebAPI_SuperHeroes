@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\SuperHeroAPIDotNet7.props" />
-</Project>
